@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>background_frequency.jpg</file>
+        <file>MoTalk_Key.qml</file>
+        <file>SingleKey.qml</file>
+        <file>Frontpage.qml</file>
+        <file>Stefan_Lex.jpeg</file>
+        <file>Marco_Hiller.jpeg</file>
+        <file>startingpage.qml</file>
+        <file>type_option.qml</file>
+        <file>speech_option.qml</file>
+        <file>lautsprecher.png</file>
+        <file>mikro.png</file>
+    </qresource>
+</RCC>
